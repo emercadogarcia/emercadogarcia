@@ -1,4 +1,6 @@
+# Edgar Mercado Garcia  [@emercadogarcia]
 ### Hi there 👋
+### Hola, soy de Santa Cruz - Bolivia, me apasiona la programacion y el manejo de bases de datos.
 
 <!--
 **emercadogarcia/emercadogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
