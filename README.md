@@ -1,13 +1,15 @@
 # Edgar Mercado Garcia  [@emercadogarcia]
-### Hi there 👋
-### Hola, soy de Santa Cruz - Bolivia, me apasiona la programacion y el manejo de bases de datos.
+<!-- ### Hi there 👋   -->
+### Hola 👋, soy de Santa Cruz - Bolivia, me apasiona la programacion y el manejo de bases de datos.
+
+- 🔭 Actualmente estoy trabajando  sobre PL/SQL en Promedical SA como desarrollador
 
 <!--
 **emercadogarcia/emercadogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...PL/SQL at Promedical SA
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
