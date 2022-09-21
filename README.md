@@ -1,11 +1,15 @@
 # Edgar Mercado Garcia  [@emercadogarcia]
 <!-- ### Hi there 👋   -->
-### Hola 👋, soy de Santa Cruz de la Sierra - Bolivia, me gusta la programación y estudie ingenieria en Electronica y Sistemas, donde me especialice en el manejo de bases de datos y procesos de control automatic. En #Platzi me he actualizado y sigo aprendiendo sobre las nuevas tecnologias.
+### Hola 👋, soy de Santa Cruz de la Sierra - Bolivia, realice estudios en Ingenieria en Electronica y Sistemas, me gusta la programación donde me especialice en el manejo de bases de datos y procesos de control automatico. En #Platzi me he actualizado y sigo aprendiendo sobre las nuevas tecnologias.
 
 - 🔭 Actualmente estoy trabajando  sobre PL/SQL en Promedical SA como desarrollador
 - 🌱 Estoy estuadiando actualmente para ser Cientifico de datos.
+- 👯 Dentro de mi experiencias que tuve fue colaborar con la interconexicon y calibracion de sensores de temperaturas y humedad y actuadores de control y centralizarlos en un computador para que se pueda monitroear y controlar la temperatura y humedad una nave de produccion.
 
 <!--
+
+ Dentro de mi experiencias que tuve fue colaborar con la interconexicon y calibracion de sensores de temperaturas y humedad y actuadores de control y centralizarlos en un computador para que se pueda monitroear y controlar la temperatura y humedad una nave de produccion.
+
 Me distingo por la adaptabilidad a los cambios, trabajar bajo presión y mi colaboración en trabajo en equipo y , buscando brindar información útil y oportuna para la toma de decisiones que ayuden a crecer al equipo de trabajo y a la empresa.
 
 **emercadogarcia/emercadogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
